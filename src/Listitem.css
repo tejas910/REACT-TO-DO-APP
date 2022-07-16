@@ -1,0 +1,25 @@
+.list{
+    color:#fff;
+    width: 300px;
+    background-color: #bf07ac;
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 5px;
+    font-size: 18px;
+
+}
+.list p{
+    padding: 10px;
+    position: relative;
+    text-transform: uppercase;
+}
+.list p .icon{
+    position: absolute;
+    right: 10px;
+    font-size: 15px;
+    color: red;
+    border-radius: 40px;
+    background-color: white;
+    padding: 4px;
+    cursor: pointer;
+}
